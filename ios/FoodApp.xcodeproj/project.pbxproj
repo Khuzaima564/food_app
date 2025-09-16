@@ -11,6 +11,15 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		FF04BB19F0EF40F9ACD3C8A6 /* DancingScript-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C0BEFA4A7C6D466B80443879 /* DancingScript-Bold.ttf */; };
+		92A56C5093364F598B4A809C /* DancingScript-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC19D4AA1CE44E309E1E8D67 /* DancingScript-Medium.ttf */; };
+		92B686CBAC3A4D22A98E3F9A /* DancingScript-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C59EEBFFC77A4CBDB6AECF4F /* DancingScript-Regular.ttf */; };
+		08334E133CCD4F2A8900E233 /* DancingScript-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6EFAB3ADE5C64F43B9C4A1FC /* DancingScript-SemiBold.ttf */; };
+		067FBA4ADAA24C42B011BD34 /* DancingScript-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA47C7D06DE64E93AF52E954 /* DancingScript-VariableFont_wght.ttf */; };
+		97523E20764346439A190D77 /* PTSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5233567DC9F48AB80EDEC44 /* PTSerif-Bold.ttf */; };
+		5C79C9F85F4B428FA44045D1 /* PTSerif-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2C1912BF80B4F268C8322C4 /* PTSerif-BoldItalic.ttf */; };
+		9A846B738F9E45259C0DE8B5 /* PTSerif-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BDD6787980E41B68DBC4AE6 /* PTSerif-Italic.ttf */; };
+		C80D452D68444383A76CE878 /* PTSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E7FB19E05E7C41D388ADE89C /* PTSerif-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +44,15 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = FoodApp/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FoodApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		C0BEFA4A7C6D466B80443879 /* DancingScript-Bold.ttf */ = {isa = PBXFileReference; name = "DancingScript-Bold.ttf"; path = "../src/fonts/DancingScript-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AC19D4AA1CE44E309E1E8D67 /* DancingScript-Medium.ttf */ = {isa = PBXFileReference; name = "DancingScript-Medium.ttf"; path = "../src/fonts/DancingScript-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C59EEBFFC77A4CBDB6AECF4F /* DancingScript-Regular.ttf */ = {isa = PBXFileReference; name = "DancingScript-Regular.ttf"; path = "../src/fonts/DancingScript-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6EFAB3ADE5C64F43B9C4A1FC /* DancingScript-SemiBold.ttf */ = {isa = PBXFileReference; name = "DancingScript-SemiBold.ttf"; path = "../src/fonts/DancingScript-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AA47C7D06DE64E93AF52E954 /* DancingScript-VariableFont_wght.ttf */ = {isa = PBXFileReference; name = "DancingScript-VariableFont_wght.ttf"; path = "../src/fonts/DancingScript-VariableFont_wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5233567DC9F48AB80EDEC44 /* PTSerif-Bold.ttf */ = {isa = PBXFileReference; name = "PTSerif-Bold.ttf"; path = "../src/fonts/PTSerif-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D2C1912BF80B4F268C8322C4 /* PTSerif-BoldItalic.ttf */ = {isa = PBXFileReference; name = "PTSerif-BoldItalic.ttf"; path = "../src/fonts/PTSerif-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9BDD6787980E41B68DBC4AE6 /* PTSerif-Italic.ttf */ = {isa = PBXFileReference; name = "PTSerif-Italic.ttf"; path = "../src/fonts/PTSerif-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E7FB19E05E7C41D388ADE89C /* PTSerif-Regular.ttf */ = {isa = PBXFileReference; name = "PTSerif-Regular.ttf"; path = "../src/fonts/PTSerif-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +111,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				85A685197E82485C82478F84 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +134,23 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		85A685197E82485C82478F84 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				C0BEFA4A7C6D466B80443879 /* DancingScript-Bold.ttf */,
+				AC19D4AA1CE44E309E1E8D67 /* DancingScript-Medium.ttf */,
+				C59EEBFFC77A4CBDB6AECF4F /* DancingScript-Regular.ttf */,
+				6EFAB3ADE5C64F43B9C4A1FC /* DancingScript-SemiBold.ttf */,
+				AA47C7D06DE64E93AF52E954 /* DancingScript-VariableFont_wght.ttf */,
+				F5233567DC9F48AB80EDEC44 /* PTSerif-Bold.ttf */,
+				D2C1912BF80B4F268C8322C4 /* PTSerif-BoldItalic.ttf */,
+				9BDD6787980E41B68DBC4AE6 /* PTSerif-Italic.ttf */,
+				E7FB19E05E7C41D388ADE89C /* PTSerif-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +221,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				FF04BB19F0EF40F9ACD3C8A6 /* DancingScript-Bold.ttf in Resources */,
+				92A56C5093364F598B4A809C /* DancingScript-Medium.ttf in Resources */,
+				92B686CBAC3A4D22A98E3F9A /* DancingScript-Regular.ttf in Resources */,
+				08334E133CCD4F2A8900E233 /* DancingScript-SemiBold.ttf in Resources */,
+				067FBA4ADAA24C42B011BD34 /* DancingScript-VariableFont_wght.ttf in Resources */,
+				97523E20764346439A190D77 /* PTSerif-Bold.ttf in Resources */,
+				5C79C9F85F4B428FA44045D1 /* PTSerif-BoldItalic.ttf in Resources */,
+				9A846B738F9E45259C0DE8B5 /* PTSerif-Italic.ttf in Resources */,
+				C80D452D68444383A76CE878 /* PTSerif-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
